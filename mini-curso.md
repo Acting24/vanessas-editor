@@ -1,4 +1,4 @@
-# 🎓 Mini Curso: Dominando o NeonDownright Editor
+# 🎓 Mini Curso:
 
 Bem-vindo! Este curso foi desenhado para transformar você de iniciante a **power user** em 6 módulos progressivos. Cada módulo leva de 10 a 20 minutos. Recomendo **digitar tudo manualmente** (não copie e cole) para treinar memória muscular.
 
